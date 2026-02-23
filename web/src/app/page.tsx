@@ -1,6 +1,7 @@
 import { Tv } from "lucide-react"
 
 import { ScheduleDashboard } from "@/components/schedule-dashboard"
+import { ThemeToggle } from "@/components/theme-toggle"
 import { getAvailableDates } from "@/lib/schedule"
 
 export const dynamic = "force-dynamic"
@@ -13,7 +14,7 @@ export default function Home() {
       <header className="mb-8">
         <div className="flex items-center gap-3">
           <Tv className="h-8 w-8 text-primary" />
-          <div>
+          <div className="flex-1">
             <h1 className="text-2xl font-bold tracking-tight">
               홈쇼핑 편성표
             </h1>
@@ -21,6 +22,7 @@ export default function Home() {
               홈쇼핑 채널별 편성 정보를 한눈에 확인하세요
             </p>
           </div>
+          <ThemeToggle />
         </div>
       </header>
 

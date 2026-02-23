@@ -1,5 +1,6 @@
 import type { Metadata } from "next"
 import { Noto_Sans_KR } from "next/font/google"
+import { ThemeProvider } from "next-themes"
 import "./globals.css"
 
 const notoSansKR = Noto_Sans_KR({
@@ -19,9 +20,16 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="ko">
+    <html lang="ko" suppressHydrationWarning>
       <body className={`${notoSansKR.variable} font-sans antialiased`}>
-        {children}
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange
+        >
+          {children}
+        </ThemeProvider>
       </body>
     </html>
   )

@@ -43,3 +43,8 @@ export interface TimeGroup {
   readonly label: string
   readonly items: readonly ScheduleItem[]
 }
+
+export interface ChannelInfo {
+  readonly code: string
+  readonly name: string
+}

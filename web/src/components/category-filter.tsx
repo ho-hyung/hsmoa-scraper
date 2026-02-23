@@ -1,6 +1,6 @@
 "use client"
 
-import { Filter } from "lucide-react"
+import { Tag } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
 import { Checkbox } from "@/components/ui/checkbox"
@@ -10,37 +10,37 @@ import {
   PopoverTrigger,
 } from "@/components/ui/popover"
 import { ScrollArea } from "@/components/ui/scroll-area"
-import { ChannelBadge } from "@/components/channel-badge"
 
-import type { ChannelInfo } from "@/types/schedule"
+interface CategoryInfo {
+  readonly name: string
+  readonly count: number
+}
 
-interface ChannelFilterProps {
-  readonly channels: readonly ChannelInfo[]
-  readonly selectedChannels: ReadonlySet<string>
-  readonly channelCounts?: ReadonlyMap<string, number>
-  readonly onToggleChannel: (channelName: string) => void
+interface CategoryFilterProps {
+  readonly categories: readonly CategoryInfo[]
+  readonly selectedCategories: ReadonlySet<string>
+  readonly onToggleCategory: (category: string) => void
   readonly onSelectAll: () => void
   readonly onDeselectAll: () => void
 }
 
-export function ChannelFilter({
-  channels,
-  selectedChannels,
-  channelCounts,
-  onToggleChannel,
+export function CategoryFilter({
+  categories,
+  selectedCategories,
+  onToggleCategory,
   onSelectAll,
   onDeselectAll,
-}: ChannelFilterProps) {
-  const allSelected = channels.length === selectedChannels.size
-  const noneSelected = selectedChannels.size === 0
-  const selectedCount = selectedChannels.size
+}: CategoryFilterProps) {
+  const allSelected = categories.length === selectedCategories.size
+  const noneSelected = selectedCategories.size === 0
+  const selectedCount = selectedCategories.size
 
   return (
     <Popover>
       <PopoverTrigger asChild>
         <Button variant="outline" className="gap-2">
-          <Filter className="h-4 w-4" />
-          <span>채널</span>
+          <Tag className="h-4 w-4" />
+          <span>카테고리</span>
           {!allSelected && (
             <span className="rounded-full bg-primary px-1.5 text-xs text-primary-foreground">
               {selectedCount}
@@ -51,7 +51,7 @@ export function ChannelFilter({
       <PopoverContent className="w-64 p-0" align="start">
         <div className="flex items-center justify-between border-b px-3 py-2">
           <span className="text-sm font-medium">
-            채널 필터 ({selectedCount}/{channels.length})
+            카테고리 ({selectedCount}/{categories.length})
           </span>
           <div className="flex gap-1">
             <Button
@@ -76,21 +76,19 @@ export function ChannelFilter({
         </div>
         <ScrollArea className="h-72">
           <div className="space-y-1 p-2">
-            {channels.map((ch) => (
+            {categories.map((cat) => (
               <label
-                key={ch.code}
+                key={cat.name}
                 className="flex cursor-pointer items-center gap-2 rounded-md px-2 py-1.5 hover:bg-accent"
               >
                 <Checkbox
-                  checked={selectedChannels.has(ch.name)}
-                  onCheckedChange={() => onToggleChannel(ch.name)}
+                  checked={selectedCategories.has(cat.name)}
+                  onCheckedChange={() => onToggleCategory(cat.name)}
                 />
-                <ChannelBadge channelCode={ch.code} channelName={ch.name} />
-                {channelCounts && (
-                  <span className="ml-auto text-xs text-muted-foreground">
-                    {channelCounts.get(ch.name) ?? 0}
-                  </span>
-                )}
+                <span className="text-sm">{cat.name}</span>
+                <span className="ml-auto text-xs text-muted-foreground">
+                  {cat.count}
+                </span>
               </label>
             ))}
           </div>
