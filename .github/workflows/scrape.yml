@@ -2,8 +2,8 @@ name: Scrape Schedule
 
 on:
   schedule:
-    # 매일 14:00 UTC (23:00 KST) - 내일 편성표 수집
-    - cron: "0 14 * * *"
+    # 매일 16:00 UTC (01:00 KST) - 내일 편성표 수집
+    - cron: "0 16 * * *"
   workflow_dispatch:
     inputs:
       date:
