@@ -28,7 +28,7 @@ import json
 import random
 import sys
 import zlib
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import pandas as pd
@@ -94,10 +94,11 @@ def parse_args():
 
 def get_target_date(date_arg: str | None) -> tuple[str, str]:
     """대상 날짜 계산. (YYYYMMDD, YYYY-MM-DD) 반환"""
+    KST = timezone(timedelta(hours=9))
     if date_arg:
         dt = datetime.strptime(date_arg, "%Y%m%d")
     else:
-        dt = datetime.now() + timedelta(days=1)
+        dt = datetime.now(KST) + timedelta(days=1)
     return dt.strftime("%Y%m%d"), dt.strftime("%Y-%m-%d")
 
 
