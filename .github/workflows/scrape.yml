@@ -1,0 +1,61 @@
+name: Scrape Schedule
+
+on:
+  schedule:
+    # 매일 14:00 UTC (23:00 KST) - 내일 편성표 수집
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "수집할 날짜 (YYYYMMDD). 비워두면 내일 날짜"
+        required: false
+        default: ""
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Run scraper
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            python scraper.py --date "${{ github.event.inputs.date }}"
+          else
+            python scraper.py
+          fi
+
+      - name: Copy data to web/data
+        run: |
+          mkdir -p web/data
+          cp output/schedule_*.json web/data/
+
+      - name: Clean old data (keep 7 days)
+        run: |
+          find web/data -name "schedule_*.json" -mtime +7 -delete 2>/dev/null || true
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/data/schedule_*.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update schedule data $(date +%Y-%m-%d)"
+            git push
+          fi

@@ -3,7 +3,7 @@ import path from "path"
 
 import type { ScheduleData, DateInfo } from "@/types/schedule"
 
-const OUTPUT_DIR = path.resolve(process.cwd(), "..", "output")
+const OUTPUT_DIR = path.resolve(process.cwd(), "data")
 
 export function getScheduleFiles(): string[] {
   if (!fs.existsSync(OUTPUT_DIR)) {
