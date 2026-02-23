@@ -1,7 +1,7 @@
 {
   "date": "2026-02-24",
-  "collected_at": "2026-02-23T15:30:58.306975",
-  "total_count": 433,
+  "collected_at": "2026-02-23T08:06:55.613176",
+  "total_count": 485,
   "items": [
     {
       "channel_code": "nsmallplus",
@@ -30,7 +30,22 @@
       "category": "뷰티",
       "image_url": "http://cdn.image.buzzni.com/2026/02/09/9La4b25q.jpg",
       "product_url": "https://www.hmall.com/md/pda/itemPtc?utm_source=homemoadata&utm_medium=cps&utm_campaign=sale&ReferCode=s61&slitmCd=2245475363&hsmoa_userid=",
-      "review_count": 5,
+      "review_count": 6,
+      "review_rating": 5
+    },
+    {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 00:25",
+      "end_time": "2026-02-24 01:26",
+      "product_name": "(무)AIA원스톱프리미엄암보험(갱신형) (사은품 : 7L저압압력솥+프라이팬2종 세트)",
+      "price": "",
+      "original_price": "",
+      "brand": "AIA생명",
+      "category": "서비스/금융",
+      "image_url": "http://cdn.image.buzzni.com/2026/01/02/eE9ar4Jw.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/23992361?mediaCode=MC56&hsmoa_userid=",
+      "review_count": 2,
       "review_rating": 5
     },
     {
@@ -304,6 +319,21 @@
       "review_rating": 3
     },
     {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 01:26",
+      "end_time": "2026-02-24 02:27",
+      "product_name": "[최종가]르까프 패딩 상하의 2종세트(패딩점퍼1+패딩팬츠1), 남성",
+      "price": 28500,
+      "original_price": 38000,
+      "brand": "르까프",
+      "category": "스포츠/레저",
+      "image_url": "http://img.w-shopping.co.kr/goods2022/931/68/24068931_p.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/24068931?mediaCode=MC04&hsmoa_userid=",
+      "review_count": 2,
+      "review_rating": 5
+    },
+    {
       "channel_code": "bshop",
       "channel": "SK스토아",
       "start_time": "2026-02-24 01:31",
@@ -349,6 +379,21 @@
       "review_rating": 4
     },
     {
+      "channel_code": "kshop",
+      "channel": "공영쇼핑",
+      "start_time": "2026-02-24 01:39",
+      "end_time": "2026-02-24 02:39",
+      "product_name": "가바 25FW 여성 더블기모데님 3종",
+      "price": 50920,
+      "original_price": 59900,
+      "brand": "가바",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2025/10/31/wp8SqDAp.jpg",
+      "product_url": "http://m.kshop.co.kr/display/mc/product/6452339?with_code=100315&utm_source=hsmoa_ep&utm_medium=cps&utm_campaign=prd_01_%EC%9D%98%EB%A5%98/%EC%96%B8%EB%8D%94%EC%9B%A8%EC%96%B4_6452339&utm_content=mo_schedule&hsmoa_userid=",
+      "review_count": 108,
+      "review_rating": 4
+    },
+    {
       "channel_code": "nsmall",
       "channel": "NS홈쇼핑",
       "start_time": "2026-02-24 01:40",
@@ -390,7 +435,7 @@
       "category": "의류",
       "image_url": "http://cdn.image.buzzni.com/2026/01/26/x6UrDWgK.png",
       "product_url": "https://display.cjonstyle.com/m/item/2077101599?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&channelCode=30002002&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
-      "review_count": 30,
+      "review_count": 31,
       "review_rating": 4.8
     },
     {
@@ -420,7 +465,7 @@
       "category": "의류",
       "image_url": "https://image.hmall.com/static/0/3/28/47/2247283038_0.jpg?RS=600x600&amp;AR=0",
       "product_url": "https://www.hmall.com/md/pda/itemPtc?utm_source=homemoatv&utm_medium=cps&utm_campaign=sale&ReferCode=m20&slitmCd=2247283038",
-      "review_count": 10,
+      "review_count": 11,
       "review_rating": 5
     },
     {
@@ -480,7 +525,7 @@
       "category": "생필품/주방",
       "image_url": "http://cdn.image.buzzni.com/2026/02/11/OB6TJTH3.jpg",
       "product_url": "https://m.gsshop.com/alia/aliaGate.gs?media=LUz&gourl=/prd/prd.gs?prdid=1105734639&hsmoa_userid=&utm_source=nscreen&utm_medium=affiliate&utm_campaign=homeshopmoa",
-      "review_count": 194,
+      "review_count": 195,
       "review_rating": 4.5
     },
     {
@@ -529,6 +574,21 @@
       "review_rating": 4.5
     },
     {
+      "channel_code": "lotteonetv",
+      "channel": "롯데원TV",
+      "start_time": "2026-02-24 02:00",
+      "end_time": "2026-02-24 02:05",
+      "product_name": "겜미 26SS 아트웍 자켓",
+      "price": 75050,
+      "original_price": 79000,
+      "brand": "",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/23/V4BqlIZe.jpg",
+      "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171634&chl_dtl_no=2584694&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12892348&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
       "channel_code": "lotteimall",
       "channel": "롯데홈쇼핑",
       "start_time": "2026-02-24 02:00",
@@ -570,6 +630,21 @@
       "category": "생필품/주방",
       "image_url": "http://cdn.image.buzzni.com/2026/02/20/zi6Dwi5u.jpg",
       "product_url": "https://m.gsshop.com/alia/aliaGate.gs?media=LVA&gourl=/prd/prd.gs?prdid=1106021257&hsmoa_userid=&utm_source=nscreen&utm_medium=affiliate&utm_campaign=homeshopmoa",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
+      "channel_code": "lotteonetv",
+      "channel": "롯데원TV",
+      "start_time": "2026-02-24 02:05",
+      "end_time": "2026-02-24 02:15",
+      "product_name": "O 트루릴리전 26SS 여성 NEW 체크셔츠 2종",
+      "price": 75050,
+      "original_price": 79000,
+      "brand": "",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/23/serNbVJ1.jpg",
+      "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171634&chl_dtl_no=2584694&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12893017&hsmoa_userid=",
       "review_count": 0,
       "review_rating": 0
     },
@@ -621,6 +696,36 @@
     {
       "channel_code": "gsmyshop",
       "channel": "GS MY샵",
+      "start_time": "2026-02-24 02:15",
+      "end_time": "2026-02-24 02:20",
+      "product_name": "(여성) 바로인 구름 니트쿠션슬립온",
+      "price": 62100,
+      "original_price": 69000,
+      "brand": "바로인",
+      "category": "잡화",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/20/Dmdj8LYG.jpg",
+      "product_url": "https://m.gsshop.com/alia/aliaGate.gs?media=LVA&gourl=/prd/prd.gs?prdid=1104435925&hsmoa_userid=&utm_source=nscreen&utm_medium=affiliate&utm_campaign=homeshopmoa",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
+      "channel_code": "lotteonetv",
+      "channel": "롯데원TV",
+      "start_time": "2026-02-24 02:15",
+      "end_time": "2026-02-24 02:20",
+      "product_name": "(A)겜미 26SS 아트웍 자켓",
+      "price": 75050,
+      "original_price": 79000,
+      "brand": "",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/23/2FMdGUOR.jpg",
+      "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171634&chl_dtl_no=2584694&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12892367&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
+      "channel_code": "gsmyshop",
+      "channel": "GS MY샵",
       "start_time": "2026-02-24 02:20",
       "end_time": "2026-02-24 02:30",
       "product_name": "게스 언더웨어 26SS 더블퓨징 브라팬티 4세트 + 원피스 1종",
@@ -630,6 +735,21 @@
       "category": "의류",
       "image_url": "http://cdn.image.buzzni.com/2026/02/13/8Dlbq1e4.jpg",
       "product_url": "https://m.gsshop.com/alia/aliaGate.gs?media=LVA&gourl=/prd/prd.gs?prdid=1104863847&hsmoa_userid=&utm_source=nscreen&utm_medium=affiliate&utm_campaign=homeshopmoa",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
+      "channel_code": "lotteonetv",
+      "channel": "롯데원TV",
+      "start_time": "2026-02-24 02:20",
+      "end_time": "2026-02-24 02:30",
+      "product_name": "● 트루릴리전 26SS 여성 NEW 체크셔츠 2종",
+      "price": 79000,
+      "original_price": 79000,
+      "brand": "",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/23/KazjIay6.jpg",
+      "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171634&chl_dtl_no=2584694&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12893020&hsmoa_userid=",
       "review_count": 0,
       "review_rating": 0
     },
@@ -660,6 +780,36 @@
       "category": "스포츠/레저",
       "image_url": "https://image.hmall.com/static/3/8/02/47/2247028371_0.jpg?RS=600x600&amp;AR=0",
       "product_url": "https://www.hmall.com/md/pda/itemPtc?utm_source=homemoatv&utm_medium=cps&utm_campaign=sale&ReferCode=dm1&slitmCd=2247028371",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 02:27",
+      "end_time": "2026-02-24 03:27",
+      "product_name": "[상조] 보람상조피플 스마트299_(3구좌)결합 상품",
+      "price": "",
+      "original_price": "",
+      "brand": "보람상조",
+      "category": "서비스/금융",
+      "image_url": "http://cdn.image.buzzni.com/2026/01/05/9tCMYlfV.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/23992252?mediaCode=MC56&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
+      "channel_code": "lotteonetv",
+      "channel": "롯데원TV",
+      "start_time": "2026-02-24 02:30",
+      "end_time": "2026-02-24 02:35",
+      "product_name": "(B)겜미 26SS 아트웍 자켓",
+      "price": 75050,
+      "original_price": 79000,
+      "brand": "",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/23/DgOaD2gT.jpg",
+      "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171634&chl_dtl_no=2584694&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12892368&hsmoa_userid=",
       "review_count": 0,
       "review_rating": 0
     },
@@ -724,6 +874,21 @@
       "review_rating": 4.8
     },
     {
+      "channel_code": "lotteonetv",
+      "channel": "롯데원TV",
+      "start_time": "2026-02-24 02:35",
+      "end_time": "2026-02-24 02:45",
+      "product_name": "◎ 트루릴리전 26SS 여성 NEW 체크셔츠 2종",
+      "price": 79000,
+      "original_price": 79000,
+      "brand": "",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/23/o33diGPf.jpg",
+      "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171634&chl_dtl_no=2584694&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12893022&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
       "channel_code": "hmallplus",
       "channel": "현대홈쇼핑+",
       "start_time": "2026-02-24 02:35",
@@ -780,7 +945,7 @@
       "category": "의류",
       "image_url": "http://cdn.image.buzzni.com/2025/10/27/WCHl0BHK.jpg",
       "product_url": "https://www.hmall.com/md/pda/itemPtc?utm_source=homemoatv&utm_medium=cps&utm_campaign=sale&ReferCode=s60&slitmCd=2241371799&hsmoa_userid=",
-      "review_count": 385,
+      "review_count": 386,
       "review_rating": 4.9
     },
     {
@@ -814,6 +979,21 @@
       "review_rating": 0
     },
     {
+      "channel_code": "lotteonetv",
+      "channel": "롯데원TV",
+      "start_time": "2026-02-24 02:45",
+      "end_time": "2026-02-24 02:50",
+      "product_name": "겜미 26SS 아트웍 자켓",
+      "price": 75050,
+      "original_price": 79000,
+      "brand": "",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/23/V4BqlIZe.jpg",
+      "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171634&chl_dtl_no=2584694&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12892348&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
       "channel_code": "hmallplus",
       "channel": "현대홈쇼핑+",
       "start_time": "2026-02-24 02:45",
@@ -825,6 +1005,21 @@
       "category": "잡화",
       "image_url": "https://image.hmall.com/static/0/1/11/47/2247111036_0.jpg?RS=600x600&amp;AR=0",
       "product_url": "https://www.hmall.com/md/pda/itemPtc?utm_source=homemoatv&utm_medium=cps&utm_campaign=sale&ReferCode=dm1&slitmCd=2247111036",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
+      "channel_code": "lotteonetv",
+      "channel": "롯데원TV",
+      "start_time": "2026-02-24 02:50",
+      "end_time": "2026-02-24 03:00",
+      "product_name": "O 트루릴리전 26SS 여성 NEW 체크셔츠 2종",
+      "price": 75050,
+      "original_price": 79000,
+      "brand": "",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/23/serNbVJ1.jpg",
+      "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171634&chl_dtl_no=2584694&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12893017&hsmoa_userid=",
       "review_count": 0,
       "review_rating": 0
     },
@@ -949,6 +1144,21 @@
       "review_rating": 4.8
     },
     {
+      "channel_code": "lotteonetv",
+      "channel": "롯데원TV",
+      "start_time": "2026-02-24 03:00",
+      "end_time": "2026-02-24 03:05",
+      "product_name": "(A)겜미 26SS 아트웍 자켓",
+      "price": 75050,
+      "original_price": 79000,
+      "brand": "",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/23/2FMdGUOR.jpg",
+      "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171634&chl_dtl_no=2584694&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12892367&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
       "channel_code": "hmallplus",
       "channel": "현대홈쇼핑+",
       "start_time": "2026-02-24 03:00",
@@ -979,6 +1189,21 @@
       "review_rating": 0
     },
     {
+      "channel_code": "lotteonetv",
+      "channel": "롯데원TV",
+      "start_time": "2026-02-24 03:05",
+      "end_time": "2026-02-24 03:15",
+      "product_name": "● 트루릴리전 26SS 여성 NEW 체크셔츠 2종",
+      "price": 79000,
+      "original_price": 79000,
+      "brand": "",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/23/KazjIay6.jpg",
+      "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171634&chl_dtl_no=2584694&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12893020&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
       "channel_code": "cjmallplus",
       "channel": "CJ온스타일+",
       "start_time": "2026-02-24 03:10",
@@ -988,8 +1213,8 @@
       "original_price": 139000,
       "brand": "USPA",
       "category": "의류",
-      "image_url": "http://cdn.image.buzzni.com/2026/02/20/A01Ej6qF.png",
-      "product_url": "https://display.cjonstyle.com/m/item/2077714081?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/20/Gbwimi2y.png",
+      "product_url": "https://display.cjonstyle.com/m/item/2077714081?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&channelCode=30002002&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
       "review_count": 0,
       "review_rating": 0
     },
@@ -1144,6 +1369,21 @@
       "review_rating": 0
     },
     {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 03:27",
+      "end_time": "2026-02-24 03:33",
+      "product_name": "시청자 정보(체인징샵)",
+      "price": "",
+      "original_price": "",
+      "brand": "W 더블유쇼핑",
+      "category": "자동차/공구",
+      "image_url": "http://cdn.image.buzzni.com/2024/04/04/9vmXr9Gg.png",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/10003588?mediaCode=MC56&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
       "channel_code": "cjmall",
       "channel": "CJ온스타일",
       "start_time": "2026-02-24 03:30",
@@ -1155,7 +1395,7 @@
       "category": "의류",
       "image_url": "http://cdn.image.buzzni.com/2025/10/21/mTy6qYsq.jpg",
       "product_url": "https://display.cjonstyle.com/m/item/2064651501?infl_cd=I4967&utm_medium=pcs&utm_source=hsmoa&hsmoa_userid=&hsmoa_code=",
-      "review_count": 965,
+      "review_count": 966,
       "review_rating": 4.8
     },
     {
@@ -1249,6 +1489,21 @@
       "review_rating": 0
     },
     {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 03:33",
+      "end_time": "2026-02-24 03:53",
+      "product_name": "테이핑테크 ST 슬림실키핏 무릎보호대 1세트 (2p)",
+      "price": 60550,
+      "original_price": 68800,
+      "brand": "테이핑테크",
+      "category": "건강",
+      "image_url": "http://img.w-shopping.co.kr/goods2022/574/01/22901574_p.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/22901574?mediaCode=MC04&hsmoa_userid=",
+      "review_count": 1,
+      "review_rating": 5
+    },
+    {
       "channel_code": "cjmallplus",
       "channel": "CJ온스타일+",
       "start_time": "2026-02-24 03:35",
@@ -1258,8 +1513,8 @@
       "original_price": 139000,
       "brand": "USPA",
       "category": "의류",
-      "image_url": "http://cdn.image.buzzni.com/2026/02/20/A01Ej6qF.png",
-      "product_url": "https://display.cjonstyle.com/m/item/2077714081?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/20/Gbwimi2y.png",
+      "product_url": "https://display.cjonstyle.com/m/item/2077714081?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&channelCode=30002002&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
       "review_count": 0,
       "review_rating": 0
     },
@@ -1277,6 +1532,21 @@
       "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171633&chl_dtl_no=2584697&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12881278&hsmoa_userid=",
       "review_count": 90,
       "review_rating": 4.5
+    },
+    {
+      "channel_code": "gsmyshop",
+      "channel": "GS MY샵",
+      "start_time": "2026-02-24 03:37",
+      "end_time": "2026-02-24 03:42",
+      "product_name": "(여성) 바로인 구름 니트쿠션슬립온",
+      "price": 62100,
+      "original_price": 69000,
+      "brand": "바로인",
+      "category": "잡화",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/20/Dmdj8LYG.jpg",
+      "product_url": "https://m.gsshop.com/alia/aliaGate.gs?media=LVA&gourl=/prd/prd.gs?prdid=1104435925&hsmoa_userid=&utm_source=nscreen&utm_medium=affiliate&utm_campaign=homeshopmoa",
+      "review_count": 0,
+      "review_rating": 0
     },
     {
       "channel_code": "shopnt",
@@ -1414,6 +1684,21 @@
       "review_rating": 0
     },
     {
+      "channel_code": "gsmyshop",
+      "channel": "GS MY샵",
+      "start_time": "2026-02-24 03:47",
+      "end_time": "2026-02-24 03:52",
+      "product_name": "(여성) 바로인 구름 니트쿠션슬립온",
+      "price": 62100,
+      "original_price": 69000,
+      "brand": "바로인",
+      "category": "잡화",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/20/Dmdj8LYG.jpg",
+      "product_url": "https://m.gsshop.com/alia/aliaGate.gs?media=LVA&gourl=/prd/prd.gs?prdid=1104435925&hsmoa_userid=&utm_source=nscreen&utm_medium=affiliate&utm_campaign=homeshopmoa",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
       "channel_code": "cjmallplus",
       "channel": "CJ온스타일+",
       "start_time": "2026-02-24 03:50",
@@ -1504,6 +1789,21 @@
       "review_rating": 4.5
     },
     {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 03:53",
+      "end_time": "2026-02-24 04:14",
+      "product_name": "대원제약 대원헬스 아스타루지 (10박스 / 총 10개월분)",
+      "price": 164340,
+      "original_price": 198000,
+      "brand": "대원제약",
+      "category": "식품",
+      "image_url": "http://img.w-shopping.co.kr/goods2022/872/61/23961872_p.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/23961872?mediaCode=MC04&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
       "channel_code": "cjmallplus",
       "channel": "CJ온스타일+",
       "start_time": "2026-02-24 03:55",
@@ -1539,7 +1839,7 @@
       "start_time": "2026-02-24 03:57",
       "end_time": "2026-02-24 04:16",
       "product_name": "뉴온 트리플 콘드로이친 1200 12박스",
-      "price": 286200,
+      "price": 279840,
       "original_price": 318000,
       "brand": "뉴온",
       "category": "식품",
@@ -1573,8 +1873,8 @@
       "original_price": 139000,
       "brand": "USPA",
       "category": "의류",
-      "image_url": "http://cdn.image.buzzni.com/2026/02/20/A01Ej6qF.png",
-      "product_url": "https://display.cjonstyle.com/m/item/2077714081?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/20/Gbwimi2y.png",
+      "product_url": "https://display.cjonstyle.com/m/item/2077714081?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&channelCode=30002002&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
       "review_count": 0,
       "review_rating": 0
     },
@@ -1774,6 +2074,21 @@
       "review_rating": 4.4
     },
     {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 04:14",
+      "end_time": "2026-02-24 05:14",
+      "product_name": "[기획특가] 모던 뻥 뚫어 ",
+      "price": 39900,
+      "original_price": 39900,
+      "brand": "모던",
+      "category": "생필품/주방",
+      "image_url": "http://cdn.image.buzzni.com/2025/08/19/0yOgtXx4.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/22478778?mediaCode=MC56&hsmoa_userid=",
+      "review_count": 49,
+      "review_rating": 4.4
+    },
+    {
       "channel_code": "cjmallplus",
       "channel": "CJ온스타일+",
       "start_time": "2026-02-24 04:15",
@@ -1858,8 +2173,8 @@
       "original_price": 139000,
       "brand": "USPA",
       "category": "의류",
-      "image_url": "http://cdn.image.buzzni.com/2026/02/20/A01Ej6qF.png",
-      "product_url": "https://display.cjonstyle.com/m/item/2077714081?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/20/Gbwimi2y.png",
+      "product_url": "https://display.cjonstyle.com/m/item/2077714081?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&channelCode=30002002&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
       "review_count": 0,
       "review_rating": 0
     },
@@ -1965,7 +2280,7 @@
       "category": "잡화",
       "image_url": "http://cdn.image.buzzni.com/2025/11/18/QzeOoZ7L.jpg",
       "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171633&chl_dtl_no=2584697&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12861282&hsmoa_userid=",
-      "review_count": 3068,
+      "review_count": 3070,
       "review_rating": 4.6
     },
     {
@@ -2113,8 +2428,8 @@
       "original_price": 139000,
       "brand": "USPA",
       "category": "의류",
-      "image_url": "http://cdn.image.buzzni.com/2026/02/20/A01Ej6qF.png",
-      "product_url": "https://display.cjonstyle.com/m/item/2077714081?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/20/Gbwimi2y.png",
+      "product_url": "https://display.cjonstyle.com/m/item/2077714081?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&channelCode=30002002&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
       "review_count": 0,
       "review_rating": 0
     },
@@ -2145,7 +2460,7 @@
       "category": "의류",
       "image_url": "http://cdn.image.buzzni.com/2025/02/07/bYyIz21J.jpg",
       "product_url": "https://www.hmall.com/md/pda/itemPtc?utm_source=homemoatv&utm_medium=cps&utm_campaign=sale&ReferCode=s60&slitmCd=2228488024&hsmoa_userid=",
-      "review_count": 439,
+      "review_count": 445,
       "review_rating": 4.9
     },
     {
@@ -2160,7 +2475,7 @@
       "category": "생필품/주방",
       "image_url": "http://cdn.image.buzzni.com/2025/11/12/zahKl5lm.jpg",
       "product_url": "http://m.skstoa.com/display/goods/56697670?orderMedia=62&mediaCode=EP08&mediaTarget=001&utm_source=hsmoa&utm_medium=affiliate&utm_campaign=hsmoaoffair&hsmoa_userid=",
-      "review_count": 139,
+      "review_count": 140,
       "review_rating": 4.3
     },
     {
@@ -2252,6 +2567,21 @@
       "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171633&chl_dtl_no=2584697&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12880690&hsmoa_userid=",
       "review_count": 159,
       "review_rating": 4.4
+    },
+    {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 05:14",
+      "end_time": "2026-02-24 06:15",
+      "product_name": "[50％세일]오한진 프리바이오틱스 트리플12개월분 +1개월분 (총 13개월분)",
+      "price": 119250,
+      "original_price": 159000,
+      "brand": "데이즈온",
+      "category": "식품",
+      "image_url": "http://img.w-shopping.co.kr/goods2022/448/06/24406448_p.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/24406448?mediaCode=MC04&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
     },
     {
       "channel_code": "cjmallplus",
@@ -2385,7 +2715,7 @@
       "category": "뷰티",
       "image_url": "http://cdn.image.buzzni.com/2025/12/24/N7TgKFdf.jpg",
       "product_url": "https://m.shinsegaetvshopping.com/display/detail/20068484?inMediaCode=MC02&ckwhere=hsmser&hsmoa_userid=",
-      "review_count": 1751,
+      "review_count": 1752,
       "review_rating": 4
     },
     {
@@ -2409,7 +2739,7 @@
       "start_time": "2026-02-24 05:36",
       "end_time": "2026-02-24 06:36",
       "product_name": "[단독방송] 몽크로스 25FW 초특가! 기능성 양면 기모 티셔츠 6종, 여성",
-      "price": 50090,
+      "price": 47810,
       "original_price": 59900,
       "brand": "몽크로스",
       "category": "스포츠/레저",
@@ -2460,7 +2790,7 @@
       "category": "식품",
       "image_url": "http://cdn.image.buzzni.com/2026/02/20/0oaX8hV6.jpg",
       "product_url": "https://display.cjonstyle.com/m/item/2079166413?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&channelCode=30002002&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
-      "review_count": 24,
+      "review_count": 30,
       "review_rating": 4.7
     },
     {
@@ -2569,6 +2899,21 @@
       "review_rating": 0
     },
     {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 06:15",
+      "end_time": "2026-02-24 07:15",
+      "product_name": "W단독_[슬레진저] 남성 신는순간 편한 워킹화+슬립온",
+      "price": 49800,
+      "original_price": 49800,
+      "brand": "슬레진저",
+      "category": "스포츠/레저",
+      "image_url": "http://img.w-shopping.co.kr/goods2022/643/17/24417643_p.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/24417643?mediaCode=MC04&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
       "channel_code": "lotteimall",
       "channel": "롯데홈쇼핑",
       "start_time": "2026-02-24 06:15",
@@ -2612,6 +2957,21 @@
       "product_url": "http://m.kshop.co.kr/display/mc/product/7914318?with_code=100315&utm_source=hsmoa_ep&utm_medium=cps&utm_campaign=prd_01_%EC%9D%98%EB%A5%98/%EC%96%B8%EB%8D%94%EC%9B%A8%EC%96%B4_7914318&utm_content=mo_schedule&hsmoa_userid=",
       "review_count": 0,
       "review_rating": 0
+    },
+    {
+      "channel_code": "kshopplus",
+      "channel": "공영쇼핑+",
+      "start_time": "2026-02-24 06:26",
+      "end_time": "2026-02-24 07:26",
+      "product_name": "안동제비원 전통메주 담그기 세트(4kg)+누름독",
+      "price": 96300,
+      "original_price": 107000,
+      "brand": "안동제비원",
+      "category": "식품",
+      "image_url": "http://cdn.image.buzzni.com/2022/01/12/T3DIKralHc.jpg",
+      "product_url": "http://m.kshop.co.kr/display/mc/product/1977009?with_code=100315&utm_source=hsmoa_ep&utm_medium=cps&utm_campaign=prd_01_%EC%8B%9D%ED%92%88/%EA%B1%B4%EA%B0%95_1977009&utm_content=mo_schedule&hsmoa_userid=",
+      "review_count": 131,
+      "review_rating": 4
     },
     {
       "channel_code": "nsmall",
@@ -2779,6 +3139,21 @@
       "review_rating": 4.3
     },
     {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 07:15",
+      "end_time": "2026-02-24 08:16",
+      "product_name": "26SS[아놀드파마]프리미엄 긴팔 폴로 셔츠 4종, 남성",
+      "price": 45360,
+      "original_price": 58900,
+      "brand": "아놀드파마",
+      "category": "의류",
+      "image_url": "http://img.w-shopping.co.kr/goods2022/558/06/24306558_p.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/24306558?mediaCode=MC04&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
       "channel_code": "immall",
       "channel": "롯데아이몰",
       "start_time": "2026-02-24 07:15",
@@ -2818,8 +3193,8 @@
       "original_price": 59900,
       "brand": "",
       "category": "뷰티",
-      "image_url": "http://cdn.image.buzzni.com/2026/02/23/A5YQfcav.jpg",
-      "product_url": "https://www.hmall.com/md/pda/itemPtc?utm_source=homemoatv&utm_medium=cps&utm_campaign=sale&ReferCode=s60&slitmCd=2247450433&hsmoa_userid=",
+      "image_url": "https://image.hmall.com/static/4/0/45/47/2247450433_0.jpg?RS=600x600&amp;AR=0",
+      "product_url": "https://www.hmall.com/md/pda/itemPtc?utm_source=homemoatv&utm_medium=cps&utm_campaign=sale&ReferCode=m20&slitmCd=2247450433",
       "review_count": 0,
       "review_rating": 0
     },
@@ -2963,13 +3338,13 @@
       "channel": "CJ온스타일+",
       "start_time": "2026-02-24 07:45",
       "end_time": "2026-02-24 08:45",
-      "product_name": "SK 광목 피그먼트 워싱스프레드_2+베개커버2 4종세트",
-      "price": 229900,
-      "original_price": 229900,
+      "product_name": "SK 광목 피그먼트 워싱스프레드_2+베개커버2",
+      "price": 129900,
+      "original_price": 129900,
       "brand": "까사리빙",
       "category": "가구/인테리어",
-      "image_url": "http://cdn.image.buzzni.com/2026/02/23/KaBzfCO8.jpg",
-      "product_url": "https://display.cjonstyle.com/m/item/2077000645?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/23/wbUBi9Ie.jpg",
+      "product_url": "https://display.cjonstyle.com/m/item/2077000645?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&channelCode=30002002&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
       "review_count": 40,
       "review_rating": 4.7
     },
@@ -3008,9 +3383,9 @@
       "channel": "롯데홈쇼핑",
       "start_time": "2026-02-24 08:15",
       "end_time": "2026-02-24 10:25",
-      "product_name": "by 오일릴리 26SS 에센셜 시퀸 라운드 니트",
-      "price": 122550,
-      "original_price": 129000,
+      "product_name": "by 오일릴리 26SS 울캐시 블렌디드 시퀸 라운드 니트",
+      "price": 103550,
+      "original_price": 109000,
       "brand": "",
       "category": "의류",
       "image_url": "http://cdn.image.buzzni.com/2026/02/23/mLmc348k.jpg",
@@ -3038,15 +3413,30 @@
       "channel": "홈앤쇼핑",
       "start_time": "2026-02-24 08:15",
       "end_time": "2026-02-24 09:25",
-      "product_name": "[6개월분] 다이어트유산균BNR17 비에날씬프로 24주분",
-      "price": 376000,
-      "original_price": 376000,
-      "brand": "BNR17",
+      "product_name": "[방송중구매고객한정][9개월분] 다이어트유산균BNR17 비에날씬프로 36주분 + 보랄드라이기 + 프로틴 14포 2주키트",
+      "price": 548000,
+      "original_price": 548000,
+      "brand": "",
       "category": "식품",
-      "image_url": "http://cdn.image.buzzni.com/2025/07/24/FgvY4apA.jpg",
-      "product_url": "http://m.hnsmall.com/goods/view/49298853?channel_code=20397&utm_source=Hsmoa&utm_medium=AF&utm_campaign=TV_None_49298853&hsmoa_userid=",
-      "review_count": 12058,
-      "review_rating": 4.8
+      "image_url": "http://cdn.image.buzzni.com/2026/02/23/gDoL8C9Z.jpg",
+      "product_url": "http://m.hnsmall.com/goods/view/73789150?channel_code=20397&utm_source=Hsmoa&utm_medium=AF&utm_campaign=TV_None_73789150&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 08:16",
+      "end_time": "2026-02-24 09:16",
+      "product_name": "(50프로 세일)골드 카무트  브랜드밀 효소 30포 12박스 + 파로 누룽지 1박스(10봉)",
+      "price": 164340,
+      "original_price": 198000,
+      "brand": "그레인온",
+      "category": "식품",
+      "image_url": "http://img.w-shopping.co.kr/goods2022/376/79/23979376_p.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/23979376?mediaCode=MC04&hsmoa_userid=",
+      "review_count": 65,
+      "review_rating": 4.9
     },
     {
       "channel_code": "immall",
@@ -3090,7 +3480,7 @@
       "category": "식품",
       "image_url": "http://cdn.image.buzzni.com/2025/12/05/aJSkXh1A.jpg",
       "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171634&chl_dtl_no=2584694&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12881528&hsmoa_userid=",
-      "review_count": 165,
+      "review_count": 166,
       "review_rating": 3.8
     },
     {
@@ -3184,6 +3574,36 @@
       "review_rating": 0
     },
     {
+      "channel_code": "hmallplus",
+      "channel": "현대홈쇼핑+",
+      "start_time": "2026-02-24 08:40",
+      "end_time": "2026-02-24 09:39",
+      "product_name": "{구찌} GG로고 실크 넥 스카프(784959)",
+      "price": 350000,
+      "original_price": 350000,
+      "brand": "구찌",
+      "category": "잡화",
+      "image_url": "https://image.hmall.com/static/8/6/06/47/2247066868_0.jpg?RS=600x600&amp;AR=0",
+      "product_url": "https://www.hmall.com/md/pda/itemPtc?utm_source=homemoatv&utm_medium=cps&utm_campaign=sale&ReferCode=dm1&slitmCd=2247066868",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 09:16",
+      "end_time": "2026-02-24 10:16",
+      "product_name": "[방송에서만] 비트 울트라콤팩트 캡슐세제 42캡슐*7팩+15캡슐*2팩 (총 324캡슐)",
+      "price": 71820,
+      "original_price": 79800,
+      "brand": "리온",
+      "category": "생필품/주방",
+      "image_url": "http://cdn.image.buzzni.com/2025/10/01/74VwqOee.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/22738063?mediaCode=MC56&hsmoa_userid=",
+      "review_count": 97,
+      "review_rating": 4.8
+    },
+    {
       "channel_code": "cjmall",
       "channel": "CJ온스타일",
       "start_time": "2026-02-24 09:20",
@@ -3263,7 +3683,7 @@
       "channel": "신세계쇼핑",
       "start_time": "2026-02-24 09:32",
       "end_time": "2026-02-24 10:32",
-      "product_name": "[삼성카드5%할인][미리주문10%할인] 에디티드 에센셜 트렌치 롱 코트 (26SS) ",
+      "product_name": "[삼성카드5%할인][26SS 최신상] 에디티드 에센셜 트렌치 롱 코트 ",
       "price": 101150,
       "original_price": 119000,
       "brand": "에디티드",
@@ -3345,7 +3765,7 @@
       "category": "식품",
       "image_url": "https://image.hmall.com/static/3/9/84/38/2238849307_0.jpg?RS=600x600&amp;AR=0",
       "product_url": "https://www.hmall.com/md/pda/itemPtc?utm_source=homemoatv&utm_medium=cps&utm_campaign=sale&ReferCode=dm1&slitmCd=2238849307",
-      "review_count": 942,
+      "review_count": 945,
       "review_rating": 4.7
     },
     {
@@ -3360,8 +3780,23 @@
       "category": "의류",
       "image_url": "http://cdn.image.buzzni.com/2026/02/04/hXXo3WmY.jpg",
       "product_url": "https://display.cjonstyle.com/m/item/2077646583?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&channelCode=30002002&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
-      "review_count": 670,
+      "review_count": 673,
       "review_rating": 4.8
+    },
+    {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 10:16",
+      "end_time": "2026-02-24 11:17",
+      "product_name": "★60프로세일★필립스 전기면도기 이지프로",
+      "price": 100300,
+      "original_price": 118000,
+      "brand": "필립스",
+      "category": "가전",
+      "image_url": "http://img.w-shopping.co.kr/goods2022/497/66/22366497_p.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/22366497?mediaCode=MC04&hsmoa_userid=",
+      "review_count": 146,
+      "review_rating": 4.7
     },
     {
       "channel_code": "gsshop",
@@ -3452,21 +3887,6 @@
       "product_url": "http://m.kshop.co.kr/display/mc/product/5821375?with_code=100315&utm_source=hsmoa_ep&utm_medium=cps&utm_campaign=prd_01_%EC%8B%9D%ED%92%88/%EA%B1%B4%EA%B0%95_5821375&utm_content=mo_schedule&hsmoa_userid=",
       "review_count": 2,
       "review_rating": 5
-    },
-    {
-      "channel_code": "kshopplus",
-      "channel": "공영쇼핑+",
-      "start_time": "2026-02-24 10:27",
-      "end_time": "2026-02-24 11:27",
-      "product_name": "안동제비원 전통메주 담그기 세트(4kg)+누름독",
-      "price": 96300,
-      "original_price": 107000,
-      "brand": "안동제비원",
-      "category": "식품",
-      "image_url": "http://cdn.image.buzzni.com/2022/01/12/T3DIKralHc.jpg",
-      "product_url": "http://m.kshop.co.kr/display/mc/product/1977009?with_code=100315&utm_source=hsmoa_ep&utm_medium=cps&utm_campaign=prd_01_%EC%8B%9D%ED%92%88/%EA%B1%B4%EA%B0%95_1977009&utm_content=mo_schedule&hsmoa_userid=",
-      "review_count": 131,
-      "review_rating": 4
     },
     {
       "channel_code": "nsmall",
@@ -3570,8 +3990,23 @@
       "category": "잡화",
       "image_url": "http://cdn.image.buzzni.com/2025/12/31/myTWx36d.jpg",
       "product_url": "https://www.hmall.com/md/pda/itemPtc?utm_source=homemoadata&utm_medium=cps&utm_campaign=sale&ReferCode=s61&slitmCd=2243783184&hsmoa_userid=",
-      "review_count": 156,
+      "review_count": 157,
       "review_rating": 4.9
+    },
+    {
+      "channel_code": "cjmallplus",
+      "channel": "CJ온스타일+",
+      "start_time": "2026-02-24 10:45",
+      "end_time": "2026-02-24 11:45",
+      "product_name": "26S/S 쿼터집업 니트 3종",
+      "price": 79900,
+      "original_price": 79900,
+      "brand": "더엣지",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/20/Ec49g2KD.jpg",
+      "product_url": "https://display.cjonstyle.com/m/item/2078495735?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&channelCode=30002002&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
+      "review_count": 0,
+      "review_rating": 0
     },
     {
       "channel_code": "nsmallplus",
@@ -3581,12 +4016,27 @@
       "product_name": "지베르니 융기모 수트셋업 2종",
       "price": 49900,
       "original_price": 49900,
-      "brand": "",
+      "brand": "지베르니",
       "category": "의류",
-      "image_url": "http://cdn.image.buzzni.com/2026/02/23/g2XkaScz.jpg",
-      "product_url": "https://go.nsmall.com/homeshopping_moa_ep?ptnCd=539&hsmoa_userid=&product_id=35735702",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/20/W20U84hK.jpg",
+      "product_url": "https://go.nsmall.com/homeshopping_moa_ep?ptnCd=539&hsmoa_userid=&product_id=35729209",
       "review_count": 0,
       "review_rating": 0
+    },
+    {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 11:17",
+      "end_time": "2026-02-24 12:18",
+      "product_name": "(방송에서만  완벽더블) 프리미엄 오한진 백세 알부민 2+2 총 4박스",
+      "price": 218450,
+      "original_price": 257000,
+      "brand": "로지나",
+      "category": "식품",
+      "image_url": "http://img.w-shopping.co.kr/goods2022/806/17/23917806_p.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/23917806?mediaCode=MC04&hsmoa_userid=",
+      "review_count": 79,
+      "review_rating": 4.8
     },
     {
       "channel_code": "nsmall",
@@ -3684,7 +4134,7 @@
       "start_time": "2026-02-24 11:35",
       "end_time": "2026-02-24 12:35",
       "product_name": " ○26SS FAUX 스웨이드 벨티드 자켓",
-      "price": 75900,
+      "price": 64510,
       "original_price": 79900,
       "brand": "",
       "category": "의류",
@@ -3750,7 +4200,7 @@
       "category": "식품",
       "image_url": "http://cdn.image.buzzni.com/2025/01/07/YgD3upAZ.jpg",
       "product_url": "https://m.gsshop.com/alia/aliaGate.gs?media=LVA&gourl=/prd/prd.gs?prdid=1071310432&hsmoa_userid=&utm_source=nscreen&utm_medium=affiliate&utm_campaign=homeshopmoa",
-      "review_count": 1481,
+      "review_count": 1482,
       "review_rating": 4.7
     },
     {
@@ -3769,6 +4219,21 @@
       "review_rating": 4.7
     },
     {
+      "channel_code": "cjmallplus",
+      "channel": "CJ온스타일+",
+      "start_time": "2026-02-24 11:45",
+      "end_time": "2026-02-24 12:45",
+      "product_name": "26SS 이태리 코필社 트위드니트자켓",
+      "price": 179000,
+      "original_price": 179000,
+      "brand": "지스튜디오",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/09/C7HjJDGa.jpg",
+      "product_url": "https://display.cjonstyle.com/m/item/2077076308?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
+      "review_count": 47,
+      "review_rating": 4.5
+    },
+    {
       "channel_code": "nsmallplus",
       "channel": "NS샵+",
       "start_time": "2026-02-24 12:00",
@@ -3782,6 +4247,21 @@
       "product_url": "https://go.nsmall.com/homeshopping_moa_ep?ptnCd=539&hsmoa_userid=&product_id=35717303",
       "review_count": 0,
       "review_rating": 0
+    },
+    {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 12:18",
+      "end_time": "2026-02-24 13:18",
+      "product_name": "종근당건강 프로메가 알티지 오메가3 비타민D 12박스+ 6박스 더 (총 18개월분 / 18박스)",
+      "price": 177000,
+      "original_price": 178000,
+      "brand": "종근당건강",
+      "category": "식품",
+      "image_url": "http://cdn.image.buzzni.com/2025/10/01/U2VmCXXM.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/23109309?mediaCode=MC56&hsmoa_userid=",
+      "review_count": 64,
+      "review_rating": 4.9
     },
     {
       "channel_code": "hmallplus",
@@ -3979,6 +4459,21 @@
       "review_rating": 5
     },
     {
+      "channel_code": "cjmallplus",
+      "channel": "CJ온스타일+",
+      "start_time": "2026-02-24 12:45",
+      "end_time": "2026-02-24 13:45",
+      "product_name": "[최초가69,900원] 데님 하프자켓",
+      "price": 39900,
+      "original_price": 39900,
+      "brand": "더엣지",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2025/08/18/dMr2U9k2.jpg",
+      "product_url": "https://display.cjonstyle.com/m/item/2049960643?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&channelCode=30002002&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
+      "review_count": 70,
+      "review_rating": 4.7
+    },
+    {
       "channel_code": "nsmallplus",
       "channel": "NS샵+",
       "start_time": "2026-02-24 13:00",
@@ -3992,6 +4487,21 @@
       "product_url": "https://go.nsmall.com/homeshopping_moa_ep?ptnCd=539&hsmoa_userid=&product_id=35664110",
       "review_count": 64,
       "review_rating": 4
+    },
+    {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 13:18",
+      "end_time": "2026-02-24 14:18",
+      "product_name": "[26신상] 벨레즈온 데일리 소프트 쉐이핑 심리스 브라팬티 12종",
+      "price": 49900,
+      "original_price": 49900,
+      "brand": "벨레즈온",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/23/lYWSa1rH.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/23991588?mediaCode=MC56&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
     },
     {
       "channel_code": "hmallplus",
@@ -4219,6 +4729,21 @@
       "review_rating": 4.6
     },
     {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 14:18",
+      "end_time": "2026-02-24 15:19",
+      "product_name": "[★방송에서만 3박스 더] 투라 리프팅 여신 속눈썹 (총 10박스)",
+      "price": 68900,
+      "original_price": 69900,
+      "brand": "투라",
+      "category": "뷰티",
+      "image_url": "http://cdn.image.buzzni.com/2026/01/26/2hAE44c5.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/23994557?mediaCode=MC56&hsmoa_userid=",
+      "review_count": 10,
+      "review_rating": 4.8
+    },
+    {
       "channel_code": "lotteonetv",
       "channel": "롯데원TV",
       "start_time": "2026-02-24 14:20",
@@ -4277,6 +4802,21 @@
       "product_url": "http://m.kshop.co.kr/display/mc/product/7050287?with_code=100315&utm_source=hsmoa_ep&utm_medium=cps&utm_campaign=prd_01_%EC%97%AC%ED%96%89/%EB%AC%B8%ED%99%94_7050287&utm_content=mo_schedule&hsmoa_userid=",
       "review_count": 0,
       "review_rating": 0
+    },
+    {
+      "channel_code": "kshopplus",
+      "channel": "공영쇼핑+",
+      "start_time": "2026-02-24 14:29",
+      "end_time": "2026-02-24 15:29",
+      "product_name": "(헝가리구스)데니스골프 여성 구스다운 1종",
+      "price": 92650,
+      "original_price": 109000,
+      "brand": "데니스골프",
+      "category": "스포츠/레저",
+      "image_url": "http://cdn.image.buzzni.com/2025/10/31/ftL79IVh.jpg",
+      "product_url": "http://m.kshop.co.kr/display/mc/product/6511761?with_code=100315&utm_source=hsmoa_ep&utm_medium=cps&utm_campaign=prd_01_%EC%9D%98%EB%A5%98/%EC%96%B8%EB%8D%94%EC%9B%A8%EC%96%B4_6511761&utm_content=mo_schedule&hsmoa_userid=",
+      "review_count": 2,
+      "review_rating": 5
     },
     {
       "channel_code": "nsmall",
@@ -4425,7 +4965,7 @@
       "category": "뷰티",
       "image_url": "http://cdn.image.buzzni.com/2026/01/15/dEXQ7PUs.jpg",
       "product_url": "https://m.gsshop.com/alia/aliaGate.gs?media=LVA&gourl=/prd/prd.gs?prdid=1102607004&hsmoa_userid=&utm_source=nscreen&utm_medium=affiliate&utm_campaign=homeshopmoa",
-      "review_count": 1044,
+      "review_count": 1045,
       "review_rating": 4.5
     },
     {
@@ -4449,7 +4989,7 @@
       "start_time": "2026-02-24 15:00",
       "end_time": "2026-02-24 15:40",
       "product_name": "[4인][스페인 직수입] WILLY 소파 커버 세트 ",
-      "price": 158000,
+      "price": 150100,
       "original_price": 158000,
       "brand": "",
       "category": "가구/인테리어",
@@ -4504,12 +5044,27 @@
       "review_rating": 4.8
     },
     {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 15:19",
+      "end_time": "2026-02-24 16:19",
+      "product_name": "★거치대추가★ AGK 퀵클린 BLDC 무선청소기",
+      "price": 119520,
+      "original_price": 144000,
+      "brand": "AGK",
+      "category": "가전",
+      "image_url": "http://img.w-shopping.co.kr/goods2022/945/25/22125945_p.png",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/22125945?mediaCode=MC04&subGoods=22435300&hsmoa_userid=",
+      "review_count": 372,
+      "review_rating": 4.4
+    },
+    {
       "channel_code": "cjmall",
       "channel": "CJ온스타일",
       "start_time": "2026-02-24 15:30",
       "end_time": "2026-02-24 16:30",
       "product_name": "시그니처 비하이브 양모패드 킹/수퍼킹",
-      "price": 259000,
+      "price": 254000,
       "original_price": 259000,
       "brand": "크리스피바바",
       "category": "가구/인테리어",
@@ -4590,7 +5145,7 @@
       "category": "의류",
       "image_url": "http://cdn.image.buzzni.com/2025/11/03/REl3Spf1.jpg",
       "product_url": "https://m.shinsegaetvshopping.com/display/detail/20069301?inMediaCode=MC02&ckwhere=hsmser&hsmoa_userid=",
-      "review_count": 1532,
+      "review_count": 1534,
       "review_rating": 4
     },
     {
@@ -4815,7 +5370,7 @@
       "category": "식품",
       "image_url": "http://cdn.image.buzzni.com/2026/02/11/H7Fe6nTX.jpg",
       "product_url": "http://m.skstoa.com/display/goods/50024084?orderMedia=62&mediaCode=EP08&mediaTarget=001&utm_source=hsmoa&utm_medium=affiliate&utm_campaign=hsmoaoffair&hsmoa_userid=",
-      "review_count": 1105,
+      "review_count": 1106,
       "review_rating": 4.9
     },
     {
@@ -4824,7 +5379,7 @@
       "start_time": "2026-02-24 16:33",
       "end_time": "2026-02-24 17:33",
       "product_name": "[방송에서만 10회분 추가] 바로빗 버블이지 염색제 30회분+전용브러쉬",
-      "price": 78000,
+      "price": 74100,
       "original_price": 79000,
       "brand": "바로빗",
       "category": "뷰티",
@@ -4999,6 +5554,21 @@
       "review_rating": 4.4
     },
     {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 17:20",
+      "end_time": "2026-02-24 18:20",
+      "product_name": "[50％세일] 닥터린 콘드로이친 1200 콘레이티+MBP 12박스/12개월분",
+      "price": 163500,
+      "original_price": 164500,
+      "brand": "닥터린",
+      "category": "식품",
+      "image_url": "http://cdn.image.buzzni.com/2025/11/27/aDc3QV5g.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/23600064?mediaCode=MC56&subGoods=23600066&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
       "channel_code": "hmallplus",
       "channel": "현대홈쇼핑+",
       "start_time": "2026-02-24 17:20",
@@ -5034,13 +5604,13 @@
       "start_time": "2026-02-24 17:30",
       "end_time": "2026-02-24 18:30",
       "product_name": "버팔로봉골드 400g 5봉+버팔로윙골드 400g 3봉",
-      "price": 55950,
+      "price": 52350,
       "original_price": 59900,
       "brand": "마니커",
       "category": "식품",
       "image_url": "http://cdn.image.buzzni.com/2026/01/22/ITqJij01.jpg",
       "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171633&chl_dtl_no=2584697&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12817776&hsmoa_userid=",
-      "review_count": 4643,
+      "review_count": 4645,
       "review_rating": 4.4
     },
     {
@@ -5085,6 +5655,21 @@
       "category": "여행",
       "image_url": "http://cdn.image.buzzni.com/2025/12/24/3Mf3pxTC.jpg",
       "product_url": "http://m.kshop.co.kr/display/mc/product/7915277?with_code=100315&utm_source=hsmoa_ep&utm_medium=cps&utm_campaign=prd_01_%EC%97%AC%ED%96%89/%EB%AC%B8%ED%99%94_7915277&utm_content=mo_schedule&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
+      "channel_code": "kshopplus",
+      "channel": "공영쇼핑+",
+      "start_time": "2026-02-24 17:31",
+      "end_time": "2026-02-24 18:31",
+      "product_name": "대원헬스 아스타 루지 10개월",
+      "price": 168300,
+      "original_price": 198000,
+      "brand": "대원제약",
+      "category": "식품",
+      "image_url": "http://cdn.image.buzzni.com/2026/01/14/8S8EbQBH.jpg",
+      "product_url": "http://m.kshop.co.kr/display/mc/product/7767117?with_code=100315&utm_source=hsmoa_ep&utm_medium=cps&utm_campaign=prd_01_%EC%8B%9D%ED%92%88/%EA%B1%B4%EA%B0%95_7767117&utm_content=mo_schedule&hsmoa_userid=",
       "review_count": 0,
       "review_rating": 0
     },
@@ -5175,7 +5760,7 @@
       "category": "식품",
       "image_url": "http://cdn.image.buzzni.com/2025/07/23/FBg8CCVc.jpg",
       "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171634&chl_dtl_no=2584694&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12865260&hsmoa_userid=",
-      "review_count": 1342,
+      "review_count": 1344,
       "review_rating": 4.1
     },
     {
@@ -5239,6 +5824,36 @@
       "review_rating": 5
     },
     {
+      "channel_code": "nsmallplus",
+      "channel": "NS샵+",
+      "start_time": "2026-02-24 18:20",
+      "end_time": "2026-02-24 19:20",
+      "product_name": "(방송중) 국내산알배기간장게장+양념게장 세트 (알배기간장게장 800gX4통+양념게장 350gX2통, 총 6통)",
+      "price": 59900,
+      "original_price": 59900,
+      "brand": "수산천하",
+      "category": "식품",
+      "image_url": "http://cdn.image.buzzni.com/2026/01/16/Oj1j3Jhl.jpg",
+      "product_url": "https://go.nsmall.com/homeshopping_moa_ep?ptnCd=539&hsmoa_userid=&product_id=35680630",
+      "review_count": 100,
+      "review_rating": 3.8
+    },
+    {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 18:20",
+      "end_time": "2026-02-24 20:22",
+      "product_name": "★100만원세일★ 코지마 안마의자 오블리크 (추가구성 러그+눈마사지기)",
+      "price": 1980000,
+      "original_price": 1980000,
+      "brand": "코지마",
+      "category": "건강",
+      "image_url": "http://cdn.image.buzzni.com/2026/01/28/46CuvOjD.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/24322754?mediaCode=MC56&hsmoa_userid=",
+      "review_count": 8,
+      "review_rating": 4.5
+    },
+    {
       "channel_code": "cjmall",
       "channel": "CJ온스타일",
       "start_time": "2026-02-24 18:30",
@@ -5248,9 +5863,9 @@
       "original_price": 109900,
       "brand": "신영와코루",
       "category": "의류",
-      "image_url": "http://cdn.image.buzzni.com/2026/02/19/2MVyG5Ia.png",
-      "product_url": "https://display.cjonstyle.com/m/item/2076608361?infl_cd=I4967&utm_medium=pcs&utm_source=hsmoa&hsmoa_userid=&hsmoa_code=",
-      "review_count": 378,
+      "image_url": "http://cdn.image.buzzni.com/2026/02/21/nlhf24qZ.png",
+      "product_url": "https://display.cjonstyle.com/m/item/2076608361?infl_cd=I4967&utm_medium=pcs&utm_source=hsmoa&channelCode=30002002&hsmoa_userid=&hsmoa_code=",
+      "review_count": 379,
       "review_rating": 4.8
     },
     {
@@ -5355,7 +5970,7 @@
       "category": "의류",
       "image_url": "http://cdn.image.buzzni.com/2025/10/13/kgM9DbNo.jpg",
       "product_url": "https://m.shinsegaetvshopping.com/display/detail/20068272?inMediaCode=MC02&ckwhere=hsmser&hsmoa_userid=",
-      "review_count": 450,
+      "review_count": 451,
       "review_rating": 4
     },
     {
@@ -5400,7 +6015,7 @@
       "category": "의류",
       "image_url": "http://cdn.image.buzzni.com/2026/02/13/Krhn0UpB.jpg",
       "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171634&chl_dtl_no=2584694&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12887811&hsmoa_userid=",
-      "review_count": 19,
+      "review_count": 20,
       "review_rating": 4.4
     },
     {
@@ -5415,7 +6030,7 @@
       "category": "가구/인테리어",
       "image_url": "http://cdn.image.buzzni.com/2026/02/05/z2dFUwOG.jpg",
       "product_url": "https://www.hmall.com/md/pda/itemPtc?utm_source=homemoadata&utm_medium=cps&utm_campaign=sale&ReferCode=s61&slitmCd=2247065595&hsmoa_userid=",
-      "review_count": 22,
+      "review_count": 23,
       "review_rating": 5
     },
     {
@@ -5430,7 +6045,7 @@
       "category": "식품",
       "image_url": "http://cdn.image.buzzni.com/2025/11/21/k6Ur8zJp.jpg",
       "product_url": "http://m.hnsmall.com/goods/view/70355262?channel_code=20397&utm_source=Hsmoa&utm_medium=AF&utm_campaign=TV_None_70355262&hsmoa_userid=",
-      "review_count": 1099,
+      "review_count": 1104,
       "review_rating": 4.9
     },
     {
@@ -5514,7 +6129,7 @@
       "start_time": "2026-02-24 19:33",
       "end_time": "2026-02-24 20:32",
       "product_name": "란체티 남성 긴팔 카라티 3종",
-      "price": 71010,
+      "price": 78900,
       "original_price": 79900,
       "brand": "란체티",
       "category": "의류",
@@ -5640,8 +6255,23 @@
       "category": "가전",
       "image_url": "http://cdn.image.buzzni.com/2025/10/21/wRm31jmn.jpg",
       "product_url": "https://www.hmall.com/md/pda/itemPtc?utm_source=homemoadata&utm_medium=cps&utm_campaign=sale&ReferCode=s61&slitmCd=2242248951&hsmoa_userid=",
-      "review_count": 95,
+      "review_count": 97,
       "review_rating": 5
+    },
+    {
+      "channel_code": "cjmallplus",
+      "channel": "CJ온스타일+",
+      "start_time": "2026-02-24 19:45",
+      "end_time": "2026-02-24 20:45",
+      "product_name": "26SS 셰이프 업 레이어드 가디건 3종",
+      "price": 79900,
+      "original_price": 79900,
+      "brand": "M12",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/09/NPhBC11t.jpg",
+      "product_url": "https://display.cjonstyle.com/m/item/2078837172?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&channelCode=30002002&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
+      "review_count": 0,
+      "review_rating": 0
     },
     {
       "channel_code": "wshop",
@@ -5835,7 +6465,7 @@
       "category": "뷰티",
       "image_url": "http://cdn.image.buzzni.com/2026/02/12/wUmF1fb4.jpg",
       "product_url": "https://display.cjonstyle.com/m/item/2078987492?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&channelCode=30002002&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
-      "review_count": 2315,
+      "review_count": 2317,
       "review_rating": 4.8
     },
     {
@@ -5859,11 +6489,11 @@
       "start_time": "2026-02-24 20:45",
       "end_time": "2026-02-24 21:45",
       "product_name": "★방송중구성★ 레나 (LENNA) 라운드 컬러 변색 선글라스 (+플라워백)",
-      "price": 94050,
+      "price": 99000,
       "original_price": 99000,
       "brand": "",
       "category": "잡화",
-      "image_url": "https://image2.lotteimall.com/goods/18/12/89/12891218_1.jpg",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/23/7reAxlC8.jpg",
       "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171633&chl_dtl_no=2584697&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12891218&hsmoa_userid=",
       "review_count": 0,
       "review_rating": 0
@@ -5884,6 +6514,21 @@
       "review_rating": 4.7
     },
     {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 21:22",
+      "end_time": "2026-02-24 22:23",
+      "product_name": "★60프로세일★필립스 전기면도기 이지프로",
+      "price": 100300,
+      "original_price": 118000,
+      "brand": "필립스",
+      "category": "가전",
+      "image_url": "http://img.w-shopping.co.kr/goods2022/497/66/22366497_p.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/22366497?mediaCode=MC04&hsmoa_userid=",
+      "review_count": 146,
+      "review_rating": 4.7
+    },
+    {
       "channel_code": "bshop",
       "channel": "SK스토아",
       "start_time": "2026-02-24 21:31",
@@ -5895,8 +6540,23 @@
       "category": "가전",
       "image_url": "http://cdn.image.buzzni.com/2026/01/12/f2dmO4pT.jpg",
       "product_url": "http://m.skstoa.com/display/goods/58104804?orderMedia=62&mediaCode=EP08&mediaTarget=001&utm_source=hsmoa&utm_medium=affiliate&utm_campaign=hsmoaoffair&hsmoa_userid=",
-      "review_count": 1032,
+      "review_count": 1033,
       "review_rating": 4.7
+    },
+    {
+      "channel_code": "kshop",
+      "channel": "공영쇼핑",
+      "start_time": "2026-02-24 21:31",
+      "end_time": "2026-02-24 22:31",
+      "product_name": "KT단독!무료체험10일[가누다]골드라벨 프리모에어 더블세트 (베개2+냅+커버2)",
+      "price": 308000,
+      "original_price": 318000,
+      "brand": "가누다",
+      "category": "가구/인테리어",
+      "image_url": "http://cdn.image.buzzni.com/2025/12/22/wCKxsq3s.jpg",
+      "product_url": "http://m.kshop.co.kr/display/mc/product/7411935?with_code=100315&utm_source=hsmoa_ep&utm_medium=cps&utm_campaign=prd_01_%EA%B0%80%EA%B5%AC/%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4_7411935&utm_content=mo_schedule&hsmoa_userid=",
+      "review_count": 17,
+      "review_rating": 4
     },
     {
       "channel_code": "shopnt",
@@ -5925,7 +6585,7 @@
       "category": "의류",
       "image_url": "http://cdn.image.buzzni.com/2026/02/02/qDrsl6yn.jpg",
       "product_url": "https://m.shinsegaetvshopping.com/display/detail/20052585?inMediaCode=MC02&ckwhere=hsmser&hsmoa_userid=",
-      "review_count": 27781,
+      "review_count": 27783,
       "review_rating": 4
     },
     {
@@ -6015,7 +6675,7 @@
       "category": "뷰티",
       "image_url": "http://cdn.image.buzzni.com/2026/01/21/4jyREVum.jpg",
       "product_url": "https://display.cjonstyle.com/m/item/2077003453?infl_cd=I4967&utm_medium=pcs&utm_source=hsmoa&hsmoa_userid=&hsmoa_code=",
-      "review_count": 236,
+      "review_count": 237,
       "review_rating": 4.7
     },
     {
@@ -6075,8 +6735,8 @@
       "category": "서비스/금융",
       "image_url": "http://cdn.image.buzzni.com/2026/01/01/CpRTf9lF.jpg",
       "product_url": "https://www.hmall.com/md/pda/itemPtc?utm_source=homemoatv&utm_medium=cps&utm_campaign=sale&ReferCode=s60&slitmCd=2244664037&hsmoa_userid=",
-      "review_count": 0,
-      "review_rating": 0
+      "review_count": 1,
+      "review_rating": 2
     },
     {
       "channel_code": "hnsmall",
@@ -6094,12 +6754,27 @@
       "review_rating": 4.6
     },
     {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 22:23",
+      "end_time": "2026-02-24 23:24",
+      "product_name": "★최저가★ 에코너 고출력 타워멀티탭 12구",
+      "price": 54000,
+      "original_price": 54000,
+      "brand": "에코너",
+      "category": "가전",
+      "image_url": "http://cdn.image.buzzni.com/2026/01/09/Xtwn1TRC.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/24084723?mediaCode=MC56&hsmoa_userid=",
+      "review_count": 4,
+      "review_rating": 5
+    },
+    {
       "channel_code": "bshop",
       "channel": "SK스토아",
       "start_time": "2026-02-24 22:31",
       "end_time": "2026-02-24 23:31",
       "product_name": "[재클린스타일] 원장님패키지 재클린스타일 퍼펙트 헤어 볼류머(본품7개+어메니티2세트)",
-      "price": 73250,
+      "price": 81170,
       "original_price": 99000,
       "brand": "재클린스타일",
       "category": "뷰티",
@@ -6107,6 +6782,36 @@
       "product_url": "http://m.skstoa.com/display/goods/57166475?orderMedia=62&mediaCode=EP08&mediaTarget=001&utm_source=hsmoa&utm_medium=affiliate&utm_campaign=hsmoaoffair&hsmoa_userid=",
       "review_count": 149,
       "review_rating": 4.6
+    },
+    {
+      "channel_code": "kshop",
+      "channel": "공영쇼핑",
+      "start_time": "2026-02-24 22:32",
+      "end_time": "2026-02-24 23:32",
+      "product_name": "[모두투어]시그니처 프리미엄 노팁,노옵션 럭셔리 천저우/망산 여행 4박5일",
+      "price": "",
+      "original_price": "",
+      "brand": "모두투어",
+      "category": "여행",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/20/f5OY2sfy.png",
+      "product_url": "http://m.kshop.co.kr/display/mc/product/8101441?with_code=100315&utm_source=hsmoa_ep&utm_medium=cps&utm_campaign=prd_01_%EC%97%AC%ED%96%89/%EB%AC%B8%ED%99%94_8101441&utm_content=mo_schedule&hsmoa_userid=",
+      "review_count": 0,
+      "review_rating": 0
+    },
+    {
+      "channel_code": "kshopplus",
+      "channel": "공영쇼핑+",
+      "start_time": "2026-02-24 22:32",
+      "end_time": "2026-02-24 23:32",
+      "product_name": "25FW 남성 웨이스트프리 씬패딩 팬츠 3종",
+      "price": 69800,
+      "original_price": 69800,
+      "brand": "라이프먼츠",
+      "category": "스포츠/레저",
+      "image_url": "http://cdn.image.buzzni.com/2025/12/01/qYo2YJgF.jpg",
+      "product_url": "http://m.kshop.co.kr/display/mc/product/6586771?with_code=100315&utm_source=hsmoa_ep&utm_medium=cps&utm_campaign=prd_01_%EC%9D%98%EB%A5%98/%EC%96%B8%EB%8D%94%EC%9B%A8%EC%96%B4_6586771&utm_content=mo_schedule&hsmoa_userid=",
+      "review_count": 14,
+      "review_rating": 4
     },
     {
       "channel_code": "shopnt",
@@ -6150,7 +6855,7 @@
       "category": "의류",
       "image_url": "http://cdn.image.buzzni.com/2026/01/22/f8D3cCRD.jpg",
       "product_url": "https://m.gsshop.com/alia/aliaGate.gs?media=LVA&gourl=/prd/prd.gs?prdid=1103758354&hsmoa_userid=&utm_source=nscreen&utm_medium=affiliate&utm_campaign=homeshopmoa",
-      "review_count": 1223,
+      "review_count": 1224,
       "review_rating": 4.7
     },
     {
@@ -6304,6 +7009,21 @@
       "review_rating": 0
     },
     {
+      "channel_code": "wshop",
+      "channel": "W쇼핑",
+      "start_time": "2026-02-24 23:24",
+      "end_time": "2026-02-25 00:25",
+      "product_name": "(무)흥국생명 다사랑 암보험_(사은품: 스텐 사각 밧드 용기 10P세트 )",
+      "price": "",
+      "original_price": "",
+      "brand": "흥국생명",
+      "category": "서비스/금융",
+      "image_url": "http://cdn.image.buzzni.com/2026/01/21/ZWSzd5at.jpg",
+      "product_url": "https://m.w-shopping.co.kr/display/goods/23984997?mediaCode=MC56&hsmoa_userid=",
+      "review_count": 1,
+      "review_rating": 5
+    },
+    {
       "channel_code": "bshop",
       "channel": "SK스토아",
       "start_time": "2026-02-24 23:31",
@@ -6317,6 +7037,21 @@
       "product_url": "http://m.skstoa.com/display/goods/52071334?orderMedia=62&mediaCode=EP08&mediaTarget=001&utm_source=hsmoa&utm_medium=affiliate&utm_campaign=hsmoaoffair&hsmoa_userid=",
       "review_count": 205,
       "review_rating": 4.8
+    },
+    {
+      "channel_code": "kshopplus",
+      "channel": "공영쇼핑+",
+      "start_time": "2026-02-24 23:32",
+      "end_time": "2026-02-25 00:33",
+      "product_name": "블라우풍트 100주년 스페셜 에디션 오픈픽 무선 이어폰",
+      "price": 151300,
+      "original_price": 178000,
+      "brand": "블라우풍트",
+      "category": "가전",
+      "image_url": "http://cdn.image.buzzni.com/2024/08/27/C8Ee31os.jpg",
+      "product_url": "http://m.kshop.co.kr/display/mc/product/3423563?with_code=100315&utm_source=hsmoa_ep&utm_medium=cps&utm_campaign=prd_01_%EA%B0%80%EC%A0%84/%EB%94%94%EC%A7%80%ED%84%B8_3423563&utm_content=mo_schedule&hsmoa_userid=",
+      "review_count": 1,
+      "review_rating": 5
     },
     {
       "channel_code": "kshop",
@@ -6353,8 +7088,8 @@
       "channel": "신세계쇼핑",
       "start_time": "2026-02-24 23:37",
       "end_time": "2026-02-25 00:37",
-      "product_name": "(방송중세일)트라이 프리미엄 모달 드로즈 11종",
-      "price": 49900,
+      "product_name": "[삼성카드5%할인](방송중세일)트라이 프리미엄 모달 드로즈 11종",
+      "price": 47410,
       "original_price": 49900,
       "brand": "트라이",
       "category": "의류",
@@ -6394,6 +7129,21 @@
       "review_rating": 4
     },
     {
+      "channel_code": "lotteonetv",
+      "channel": "롯데원TV",
+      "start_time": "2026-02-24 23:40",
+      "end_time": "2026-02-25 00:40",
+      "product_name": "○25FW 이집션 GIZA 코튼100 여성 티셔츠 3종",
+      "price": 94050,
+      "original_price": 99000,
+      "brand": "3.1필립림",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2025/08/01/Kq7NRlWC.jpg",
+      "product_url": "https://m.lotteimall.com/coop/affilGate.lotte?chl_no=171634&chl_dtl_no=2584694&returnUrl=/goods/viewGoodsDetail.lotte?goods_no=12863855&hsmoa_userid=",
+      "review_count": 301,
+      "review_rating": 4.5
+    },
+    {
       "channel_code": "hmallplus",
       "channel": "현대홈쇼핑+",
       "start_time": "2026-02-24 23:40",
@@ -6409,6 +7159,21 @@
       "review_rating": 4.9
     },
     {
+      "channel_code": "cjmallplus",
+      "channel": "CJ온스타일+",
+      "start_time": "2026-02-24 23:45",
+      "end_time": "2026-02-25 00:45",
+      "product_name": "25SS 오간자 자카드 카울넥 3종",
+      "price": 89900,
+      "original_price": 89900,
+      "brand": "지스튜디오",
+      "category": "의류",
+      "image_url": "http://cdn.image.buzzni.com/2025/01/31/INx6K6IX.jpg",
+      "product_url": "https://display.cjonstyle.com/m/item/2045048820?infl_cd=I0482&utm_medium=pcs&utm_source=hsmoa&chn_cd=30002002&hsmoa_userid=&hsmoa_code=",
+      "review_count": 1334,
+      "review_rating": 4.6
+    },
+    {
       "channel_code": "immall",
       "channel": "롯데아이몰",
       "start_time": "2026-02-24 23:50",
@@ -6422,6 +7187,21 @@
       "product_url": "http://m.gongyoungshop.kr/gate/selectAliance.do?alcLnkCd=hsmoa&tgUrl=/goods/selectGoodsDetail.do?prdId=11925683",
       "review_count": 62,
       "review_rating": 4.2
+    },
+    {
+      "channel_code": "cjmall",
+      "channel": "CJ온스타일",
+      "start_time": "2026-02-24 23:55",
+      "end_time": "2026-02-25 01:00",
+      "product_name": "(무)AIA 원스톱 프리미엄 암보험",
+      "price": "",
+      "original_price": "",
+      "brand": "AIA생명",
+      "category": "서비스/금융",
+      "image_url": "http://cdn.image.buzzni.com/2026/02/02/GI7oBzLU.jpg",
+      "product_url": "https://display.cjonstyle.com/m/item/2076915664?infl_cd=I4967&utm_medium=pcs&utm_source=hsmoa&hsmoa_userid=&hsmoa_code=",
+      "review_count": 0,
+      "review_rating": 0
     },
     {
       "channel_code": "gsshop",
