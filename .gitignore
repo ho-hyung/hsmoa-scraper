@@ -9,6 +9,7 @@ web/.next/
 
 # Output (로컬 스크래퍼용)
 output/
+logs/
 
 # web/data/ JSON은 추적 (배포에 필요)
 !web/data/*.json
