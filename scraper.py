@@ -25,6 +25,7 @@ import argparse
 import asyncio
 import base64
 import json
+import os
 import random
 import sys
 import zlib
@@ -32,8 +33,11 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import pandas as pd
+from dotenv import load_dotenv
 from fake_useragent import UserAgent
 from playwright.async_api import async_playwright
+
+load_dotenv()
 
 
 # ──────────────────────────────────────────────
@@ -378,7 +382,7 @@ async def main():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     # 1단계: API 데이터 수집 + 복호화
-    print("\n[1/3] 편성표 데이터 수집 중...")
+    print("\n[1/4] 편성표 데이터 수집 중...")
     raw_data = await fetch_schedule_data(target_date_display)
 
     if not raw_data:
@@ -386,7 +390,7 @@ async def main():
         sys.exit(1)
 
     # 2단계: 데이터 정제
-    print("\n[2/3] 데이터 정제 중...")
+    print("\n[2/4] 데이터 정제 중...")
     items = extract_schedule_items(raw_data, target_date_display)
     print(f"  {target_date_display} 편성표: {len(items)}건")
 
@@ -399,9 +403,21 @@ async def main():
         sys.exit(0)
 
     # 3단계: 파일 저장
-    print("\n[3/3] 파일 저장 중...")
+    print("\n[3/4] 파일 저장 중...")
     json_path = save_json(items, target_date, target_date_display)
     excel_path = save_excel(items, target_date)
+
+    # 4단계: DB 저장
+    print("\n[4/4] DB 저장 중...")
+    if os.environ.get("DB_HOST"):
+        try:
+            from db import save_to_db
+            saved_count = save_to_db(items, target_date_display)
+            print(f"  [DB] {saved_count}건 저장 완료")
+        except Exception as e:
+            print(f"  [DB 경고] 저장 실패 (파일 저장은 완료됨): {e}")
+    else:
+        print("  [DB] DB_HOST 미설정 - 건너뜀")
 
     # 결과 요약
     channels = sorted(set(item["channel"] for item in items))

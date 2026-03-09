@@ -13,5 +13,9 @@ output/
 # web/data/ JSON은 추적 (배포에 필요)
 !web/data/*.json
 
+# Environment
+.env
+.env.local
+
 # OS
 .DS_Store

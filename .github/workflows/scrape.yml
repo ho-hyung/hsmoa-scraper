@@ -32,6 +32,12 @@ jobs:
           playwright install chromium --with-deps
 
       - name: Run scraper
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+          DB_NAME: ${{ secrets.DB_NAME }}
         run: |
           if [ -n "${{ github.event.inputs.date }}" ]; then
             python scraper.py --date "${{ github.event.inputs.date }}"
