@@ -37,6 +37,8 @@ from dotenv import load_dotenv
 from fake_useragent import UserAgent
 from playwright.async_api import async_playwright
 
+from notify import notify_failure, notify_success
+
 load_dotenv()
 
 
@@ -387,6 +389,7 @@ async def main():
 
     if not raw_data:
         print("\n[실패] 편성표 데이터를 가져올 수 없습니다.")
+        notify_failure(target_date_display, "API 데이터 수집 실패")
         sys.exit(1)
 
     # 2단계: 데이터 정제
@@ -396,6 +399,7 @@ async def main():
 
     if not items:
         print("\n[경고] 해당 날짜의 편성표 데이터가 없습니다.")
+        notify_failure(target_date_display, "해당 날짜 편성표 0건")
         debug_path = OUTPUT_DIR / f"raw_{target_date}.json"
         with open(debug_path, "w", encoding="utf-8") as f:
             json.dump(raw_data, f, ensure_ascii=False, indent=2)
@@ -419,8 +423,11 @@ async def main():
     else:
         print("  [DB] DB_HOST 미설정 - 건너뜀")
 
-    # 결과 요약
+    # Slack 알림
     channels = sorted(set(item["channel"] for item in items))
+    notify_success(target_date_display, len(items), len(channels))
+
+    # 결과 요약
     categories = sorted(set(item["category"] for item in items if item["category"]))
     priced_items = [item for item in items if item["price"]]
     avg_price = sum(int(item["price"]) for item in priced_items) / len(priced_items) if priced_items else 0
